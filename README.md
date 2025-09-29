@@ -3,6 +3,8 @@
 
 **Developed by:** Satyam Gupta, Sneha S, Shebin Kurin Thomas, and Nidin A.
 
+This projecRanked **#3** on the Intel OneAPI Hackathon 2023.
+
 Video Link: https://drive.google.com/drive/folders/1mh6V2M1CDUCcLAE090XfJcG68vKjVdlc?usp=sharing
 
 ## Introduction
